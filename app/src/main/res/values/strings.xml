@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Claude Voice</string>
+    <string name="action_settings">Voice Settings</string>
+    <string name="hint_message">Message Claude…</string>
+    <string name="hint_api_key">sk-ant-…</string>
+    <string name="hint_guidelines">e.g. Speak slowly and calmly, like a podcast host. Use a warm, deep voice.</string>
+    <string name="label_api_key">Claude API Key</string>
+    <string name="label_guidelines">Voice Guidelines</string>
+    <string name="label_current_settings">Current Settings</string>
+    <string name="btn_save_key">Save API Key</string>
+    <string name="btn_apply">Apply Guidelines</string>
+    <string name="btn_applying">Applying…</string>
+    <string name="btn_test">Test Voice</string>
+    <string name="desc_guidelines">Describe how the voice should sound. Claude will translate your description into voice parameters.</string>
+    <string name="test_sentence">Hello! This is a test of your current voice settings.</string>
+    <string name="toast_key_saved">API key saved</string>
+    <string name="toast_applied">Voice settings applied!</string>
+    <string name="toast_enter_key">Enter your Claude API key first</string>
+    <string name="toast_enter_guidelines">Enter voice guidelines</string>
+    <string name="voice_settings_title">Voice Settings</string>
+</resources>
